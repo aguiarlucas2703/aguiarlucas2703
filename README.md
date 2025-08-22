@@ -1,4 +1,4 @@
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguiarlucas2703)](https://github.com/aguiarlucas2703/github-readme-stats)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguiarlucas2703&show_icons=true&theme=tokyonight)
 
 <!--
 **aguiarlucas2703/aguiarlucas2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
