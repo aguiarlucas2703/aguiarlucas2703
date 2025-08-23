@@ -1,4 +1,4 @@
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguiarlucas2703&show_icons=true&theme=tokyonight&include_all_commits)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguiarlucas2703&show_icons=true&theme=tokyonight&include_all_commits=TRUE)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aguiarlucas2703&layout=compact&langs_count=8)
 <!--
